@@ -1,0 +1,9 @@
+D:\Hackathon\ServerServiceRestart\ServerServiceRestart\bin\Debug\ServerServiceRestart.exe.config
+D:\Hackathon\ServerServiceRestart\ServerServiceRestart\bin\Debug\ServerServiceRestart.exe
+D:\Hackathon\ServerServiceRestart\ServerServiceRestart\bin\Debug\ServerServiceRestart.pdb
+D:\Hackathon\ServerServiceRestart\ServerServiceRestart\obj\Debug\ServerServiceRestart.csprojResolveAssemblyReference.cache
+D:\Hackathon\ServerServiceRestart\ServerServiceRestart\obj\Debug\ServerServiceRestart.Properties.Resources.resources
+D:\Hackathon\ServerServiceRestart\ServerServiceRestart\obj\Debug\ServerServiceRestart.csproj.GenerateResource.Cache
+D:\Hackathon\ServerServiceRestart\ServerServiceRestart\obj\Debug\ServerServiceRestart.exe
+D:\Hackathon\ServerServiceRestart\ServerServiceRestart\obj\Debug\ServerServiceRestart.pdb
+D:\Hackathon\ServerServiceRestart\ServerServiceRestart\obj\Debug\ServerServiceRestart.FrmServerrestart.resources
